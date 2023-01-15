@@ -1,0 +1,12 @@
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/calc.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/smart_calc.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/edit_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/rebuild_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/calc_autogen.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/CMakeFiles/smart_calc_autogen.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/CMakeFiles/edit_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/CMakeFiles/rebuild_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/lib/CMakeFiles/qcustomplot.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/lib/CMakeFiles/edit_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/lib/CMakeFiles/rebuild_cache.dir
+/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calc/QCustomPlot-library/lib/CMakeFiles/qcustomplot_autogen.dir

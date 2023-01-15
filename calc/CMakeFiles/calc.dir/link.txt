@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcalc.a CMakeFiles/calc.dir/calc_autogen/mocs_compilation.cpp.o "/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/calculations.o" "/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/linked_list.o" "/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/parser.o" "/Users/suzibill/projects/C7_SmartCalc_v1.0-0/src/reversed_polish.o"
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib -no_warning_for_no_symbols -c libcalc.a
