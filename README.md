@@ -1,2 +1,2 @@
 # smart_calc
-edcational project smart_calc
+educational project smart_calc
