@@ -1,4 +1,5 @@
 # smart_calc
-educational project smart_calc
-logic: C
-GUI: QT(C++)
+Educational project smart_calc  
+  
+Polish notation: C  
+GUI: QT(C++)  
